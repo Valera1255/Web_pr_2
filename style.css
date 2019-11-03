@@ -1,0 +1,437 @@
+body{
+	font-family: Georgia, serif;
+	margin: 0;
+	padding: 0;
+}
+header{
+	border-top: 4px solid green;
+	margin: auto;
+	height: 600px;
+	width: 980px;
+	background-color: #2A0707;
+	position: relative;
+
+}
+h2{
+	font-style: normal;
+	margin: 0px;
+	margin: 50px 0px 0px 100px;
+	color: white;
+}
+p{
+	margin: 0px;
+}
+.list-button{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.text-style{
+	color: white;
+	display: inline-block; 
+	margin-right: 10px;
+	float: right;
+	margin-top: 50px;
+}
+.style-button{
+	background-color: :#2A0707;
+	border-radius: 5px;
+	padding: 9px 5px;
+}
+.style-button:hover{
+	background-color: green;
+	border-radius: 5px;
+	padding: 9px 5px;
+}
+.readmoreblock{
+	width: 140px;
+	height: 35px;
+	border-radius: 5px;
+	margin-left: 150px;
+	color: white;
+	margin-top: 20px;
+	padding: 9px 5px;
+	font-family: Georgia;
+}
+.readmoreblock:hover{
+	background-color: green;
+	border-radius: 5px;
+	padding: 9px 10px 5px;
+}
+.krug{
+	width: 380px;
+	height: 380px;
+	border-radius: 50%;
+	border: 20px solid grey;
+	float: right;
+	margin-right: 120px;
+	position: absolute;
+	top: 20%;
+	right: 0px;
+	content: url(img/5.jpg)
+
+}
+.text{
+	width: 245px;
+	height: 250px;
+	margin: 100px 0px 0px 100px;
+	color: white;
+}
+.text1{
+	font-size: 10pt;
+	margin-top: 25px;
+}
+h1{
+	margin: 0px;
+	font-family: Georgia;
+}
+.body{
+	height: 980px;
+	width: 980px;
+	background-color: #8B0000;
+	margin: auto;
+	padding-top: 60px;
+}
+.list{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.Fon{
+	margin: 0px 7px 0px 7px;
+	padding-left: 3px;
+	background: white;
+	display: inline-block;
+	height: 305px;
+	width: 225px;
+}
+.Fon:hover{
+	background: green;
+	color: white;
+}
+.Title{
+	color: black;
+	text-align: center;
+	font-size: 15pt;
+	margin-top: 10px;
+	font-family: Georgia;
+}
+h3{
+	text-align: center;
+	font-family: Georgia;
+}
+.TEXT{
+	font-size: 18px;
+	text-align: center;
+	color: grey;
+	margin-top: 20px;
+	font-family: Georgia;
+}
+.image1{
+	content: url(img/1.png);
+	width: 120px;
+	height: 120px;
+	margin: auto;
+	margin-top: 20px;
+}
+.image2{
+	content: url(img/2.jpg);
+	width: 120px;
+	height: 120px;	
+	margin: auto;
+	margin-top: 20px;
+}
+.image3{
+	content: url(img/3.jpg);
+	width: 120px;
+	height: 120px;
+	margin: auto;
+	margin-top: 20px;
+}
+.image4{
+	content: url(img/4.jpg);
+	width: 120px;
+	height: 120px;
+	margin: auto;
+	margin-top: 20px;
+}
+.OurWork{
+	width: 256px;
+	margin-left: 355px;
+	margin-top: 50px;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding: 7.5px 6px 7.5px 6px;
+	position: relative;
+}
+.Line{
+	border-bottom: 2px solid black;
+	position: relative;
+	top: 8%;
+}
+.Fon2_1{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/11.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}
+.Fon2_2{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/6.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}
+.Fon2_3{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/7.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}
+.Fon2_4{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/9.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}
+.Fon2_5{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/8.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}
+.Fon2_6{
+	height: 190px;
+	width: 290px;
+	float: left;
+	background: url(img/10.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-right: 13px;
+	margin-left: 13px;
+	border: 4px solid white;
+	position: relative;
+}	
+.Text-styleOW{
+	color: white;
+	font-size: 18px;
+	background: black;
+	margin-top: 170px;
+	padding-left: 65px;
+	width: 225px;
+	display: inline-flex;
+	text-align: center;
+	position: absolute;
+	font-family: Georgia;
+}
+.Fon2_1:hover{
+	border: 4px solid green;
+}
+.Fon2_2:hover{
+	border: 4px solid green;
+}
+.Fon2_3:hover{
+	border: 4px solid green;
+}
+.Fon2_4:hover{
+	border: 4px solid green;
+}
+.Fon2_5:hover{
+	border: 4px solid green;
+}
+.Fon2_6:hover{
+	border: 4px solid green;
+}
+.TheEnd{
+	width: 980px;
+	height: 350px;
+	background: black;
+	margin: auto;
+}
+.TheEnd-Text{
+	color: white;
+	margin-left: 100px;
+	padding-top: 40px;
+	font-size: 12pt;
+	font-family: Georgia;
+}
+.TheEnd-Text2{
+	color: green;
+	font-size: 8pt;
+	margin-left: 100px; 
+	padding-top: 30px;
+	font-family: Georgia;
+}
+.Admin{
+	color: green;
+	font-size: 6pt;
+	margin-left: 100px;
+	padding-top: 12px;
+	font-family: Georgia;
+}
+.Valera1255
+{
+	color: white;
+	font-size: 6pt;
+	font-family: Georgia;
+}
+.TheEnd-Text3{
+	color: white;
+	margin-left: 100px;
+	font-size: 6pt;
+	padding-top: 7px;
+	font-family: Georgia;
+}
+.TheEnd-Text4{
+	color: white;
+	margin-left: 100px;
+	font-size: 8pt;
+	padding-top: 9px;
+	width: 20%;
+	font-family: Georgia;
+}
+.readmoreblock-theend{
+	color: green;
+	margin-left: 100px;
+	font-size: 8pt;
+	padding-top: 20px;
+	font-family: Georgia;
+}
+.readmoreblock-theend:hover{
+	color: white;
+}
+.PopularTegs{
+	color: white;
+	margin-left: 305px;
+	margin-top: -215px;
+	font-size: 12pt;
+	font-family: Georgia;
+}
+.PopularTegs-Spisok{
+	color: green;
+	margin-left: 305px;
+	padding-top: 15px;
+	font-size: 8pt;
+	text-decoration: underline;
+}
+.PopularTegs-Spisok:hover{
+	color: white;
+}
+.Question{
+	color: white;
+	margin-left: 515px;
+	margin-top: -225px;
+	font-family: Georgia;
+}
+.Question-Helps{
+	color: green;
+	font-size: 8pt;
+	width: 20%;
+	margin-left: 515px;
+	padding-top: 20px;
+	font-family: Georgia;
+}
+.Question-Text{
+	color: white;
+	font-size: 8pt;
+	width: 20%;
+	font-family: Georgia;
+}
+.Response{
+	color: white;
+	margin-left: 740px;
+	margin-top: -180px;
+}
+.TheEnd-Blocks{
+	height: 25px;
+	width: 217px;
+	background: grey;
+	color: white;
+	border-radius: 5px;
+	margin-left: 740px;
+	margin-top: 15px;
+	font-size: 10pt;
+	padding: 5px 0px 0px 5px;
+	font-family: Georgia;
+}
+.TheEnd-Blocks1{
+	height: 70px;
+	width: 217px;
+	background: grey;
+	color: white;
+	border-radius: 5px;
+	margin-left: 740px;
+	margin-top: 15px;
+	font-size: 10pt;
+	padding: 5px 0px 0px 5px;
+	font-family: Georgia;
+}
+.SUB{
+	width: 70px;
+	height: 20px;
+	background: green;
+	border-radius: 5px;
+	color: black;
+	font-size: 8pt;
+	text-align: center;
+	margin-left: 740px;
+	margin-top: 15px;
+	padding: 5px 0px 0px 0px;
+	font-family: Georgia;
+}
+.SUB:hover{
+	background: white;
+}
+.PIB{
+	width:980px; 
+	height:60px;
+	margin: auto;
+	background: grey;
+}
+.Group{
+	color: black;
+	padding-top: 15px;
+	margin-left: 100px;
+	font-family: Georgia;
+	font-size: 10pt;
+}
+.PIBend{
+	color: black;
+	margin-top: -15px;
+	margin-left: 700px;
+	font-family: Georgia;
+	font-size: 10pt;
+}
